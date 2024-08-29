@@ -1,0 +1,23 @@
+{
+  "name": "4.2",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.5.2"
+  },
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "jsdom": "^25.0.0",
+    "mocha": "^10.7.3"
+  }
+}
